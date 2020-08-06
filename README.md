@@ -1,7 +1,7 @@
 #### Best PUBLIC Score 0.94952380952381 gave Best PRIVATE Score 0.95117311
 #### Public LeaderBoard Rank - 44 | Private LeaderBoard Rank - 6 | Moved Up 38 Places - Happy to build a Generalised Model :-)
 
-#### Friends Interested in Hackathons can contact me at - https://www.linkedin.com/in/%E2%99%94-vetrivel-ps-%E2%99%94-456b3b73/ | Follow me for Kaggle Notebooks - https://www.kaggle.com/vetrirah
+#### Friends Interested in Hackathons can contact me at - https://www.linkedin.com/in/%E2%99%94-vetrivel-ps-%E2%99%94-456b3b73/ | Follow me for Kaggle Notebooks - https://www.kaggle.com/vetrirah/notebooks
 
 #### Code is an update of Pulkit's Code - https://www.linkedin.com/in/pulkitmehta1985/ - He is Kaggle Expert you can follow him here - https://www.kaggle.com/pulkitmehtawork1985
 
